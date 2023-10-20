@@ -32,16 +32,19 @@ git push --set-upstream origin feature
 ```
 
 ## oefening: deleted file
-- student 1 werkt op main (`git checkout main`)
-- student 2 werkt op feature (`git checkout feature`)
+> ### Student 2
+> - student 1 werkt op main (`git checkout main`)
+> - student 1 past oldgreeting.js aan, zet een andere *(nette!)* tekst als greeting neer
+> - student 1 `git add .` en maak een commit
+> - push!
 
-- student 1 past oldgreeting.js aan, zet een andere *(nette!)* tekst als greeting neer
-- student 2 maakt een newgreeting.js aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.js
-- student 2 `git add .` en maak een commit
-- student 2 delete oldgreeting.js
-- student 2 `git add .` en maak een commit
 
-- student 1 + 2 commiten hun werk
+> ### Student 2
+> - student 2 werkt op feature (`git checkout feature`)
+> - student 2 maakt een newgreeting.js aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.js
+> - student 2 `git add .` en maak een commit
+> - student 2 delete oldgreeting.js
+> - student 2 `git add .` en maak een commit
 
 - push!
 - pull alletwee
