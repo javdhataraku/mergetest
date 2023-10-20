@@ -37,7 +37,9 @@ git push --set-upstream origin feature
 
 - student 1 past oldgreeting.js aan, zet een andere *(nette!)* tekst als greeting neer
 - student 2 maakt een newgreeting.js aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.js
+- student 2 `git add .` en maak een commit
 - student 2 delete oldgreeting.js
+- student 2 `git add .` en maak een commit
 
 - student 1 + 2 commiten hun werk
 
